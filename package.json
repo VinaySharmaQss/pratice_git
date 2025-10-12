@@ -1,0 +1,21 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VinaySharmaQss/pratice_git#readme",
+  "bugs": {
+    "url": "https://github.com/VinaySharmaQss/pratice_git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinaySharmaQss/pratice_git.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "run":"node hello.js",
+    "test": "node test.js"
+  }
+}
